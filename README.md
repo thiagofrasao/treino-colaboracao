@@ -1,5 +1,2 @@
-# treino-colaboracao
-
- # Primeira modificação remota
-
-  Commit message: feat: adiciona primeira modificação remota
+# Treino de Colaboração Git
+Este repositório é pra praticar clone/pull/push.
